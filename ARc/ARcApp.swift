@@ -6,7 +6,8 @@
 //
 
 import SwiftUI
-// a caso
+
+
 @main
 struct ARcApp: App {
     var body: some Scene {
